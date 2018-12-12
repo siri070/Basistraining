@@ -1,0 +1,20 @@
+﻿@model Basistraining.Ib.Web.Models.PersonenModel
+<table class="table">
+    <tr>
+        <th>PersonId</th>
+        <th>Vollername</th>
+    </tr>
+
+    @foreach(var b in Model.personen)
+    {
+
+        <tr>
+            <td>
+                @Html.Raw(b.personId)
+            </td>
+            <td> @Html.Raw(b.fullName)
+            </td>
+        </tr>
+
+    }
+</table>

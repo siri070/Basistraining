@@ -1,0 +1,15 @@
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.Commen.dll.config
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.Commen.dll
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.Commen.pdb
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.DataAcess.dll
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\EntityFramework.dll
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.DataAcess.pdb
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\Basistraining.Ib.DataAcess.dll.config
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\EntityFramework.xml
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\obj\Debug\Basistraining.Ib.Commen.csprojAssemblyReference.cache
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\obj\Debug\Basistraining.Ib.Commen.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\obj\Debug\Basistraining.Ib.Commen.csproj.CopyComplete
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\obj\Debug\Basistraining.Ib.Commen.dll
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.Commen\obj\Debug\Basistraining.Ib.Commen.pdb

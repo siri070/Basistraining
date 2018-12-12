@@ -1,0 +1,12 @@
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.dll.config
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.dll
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.pdb
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.dll
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.xml
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.dll
+c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.pdb
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csprojAssemblyReference.cache
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CopyComplete
