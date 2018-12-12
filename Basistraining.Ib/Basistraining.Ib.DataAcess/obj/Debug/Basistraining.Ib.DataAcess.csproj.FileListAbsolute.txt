@@ -10,3 +10,15 @@ c:\users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistra
 C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csprojAssemblyReference.cache
 C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CoreCompileInputs.cache
 C:\Users\vmadmin\documents\visual studio 2017\Projects\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CopyComplete
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.dll.config
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.dll
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\Basistraining.Ib.DataAcess.pdb
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.dll
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.xml
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csprojAssemblyReference.cache
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.csproj.CopyComplete
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.dll
+C:\Users\vmadmin\Documents\Visual Studio 2017\Projects\Basistraining\Basistraining.Ib\Basistraining.Ib.DataAcess\obj\Debug\Basistraining.Ib.DataAcess.pdb

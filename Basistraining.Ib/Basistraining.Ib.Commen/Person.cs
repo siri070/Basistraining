@@ -37,15 +37,20 @@ namespace Basistraining.Ib.Commen
             }
             return person;
         }
+        /// <summary>
+        /// Save einer Person
+        /// </summary>
+        /// <returns>Personen Objekt</returns>
         public Person Save()
-        {
+        {   
+            
             Person person;
             using (var context = new SchoolEntities())
-            {       
+            {
                 DataAcess.Person p = MapperToDataAcess(this);
                 context.Person.AddOrUpdate(p);
-                var id = context.SaveChanges();
-                person = MapperToCommen(context.Person.Find(id));
+                context.SaveChanges();
+                person = MapperToCommen(context.Person.Find(p.PersonID));
 
             }
             return person;
@@ -56,7 +61,8 @@ namespace Basistraining.Ib.Commen
         {
             using (var contex = new SchoolEntities())
             {
-                contex.Person.Remove(contex.Person.Find(id));
+                var p = contex.Person.Find(id);
+                contex.Person.Remove(p);
                 contex.SaveChanges();
 
             }
@@ -74,7 +80,7 @@ namespace Basistraining.Ib.Commen
 
         }
         private DataAcess.Person MapperToDataAcess(Person p)
-        {
+        {   
             return new DataAcess.Person() {
                 PersonID = p.personId,
                 FirstName = p.firstname,
@@ -82,6 +88,10 @@ namespace Basistraining.Ib.Commen
             };
         }
                    
+        public void setFirstname(String name)
+        {
+            firstname = name;
 
+        }
     }
 }
